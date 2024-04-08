@@ -1,6 +1,5 @@
-# kinder_geschichten
+# Kinder_Geschichten
 
-A new Flutter project.
 
 ## Getting Started
 
